@@ -8,10 +8,18 @@ This was a study that aimed taking a more holistic approach at analyzing perform
 ## Skills
 ### Languages
 - Python
+- Jupyter Notebook
 ### Tools/Frameworks
-- Scikit-Learn
-- Statsmodels
-- Chrome DevTools
-- Website Carbon
-- 
+- Scikit-Learn (machine learning & modeling)
+- Statsmodels (statistical modeling & regression analysis)
+- Seaborn & Matplotlib (Data visualization)
+- Chrome DevTools (browser profiling & network log extraction)
+- Website Carbon (carbon estimations)
 ### Other Skills
+- Data Wrangling & Preprocessing
+- Statistical Modeling
+- Ordinary Least Squares
+- Hypothesis Testing
+- Web Performance Data Collection
+- Exploratory Data Analysis
+- Interpreting and presenting results in a research context
